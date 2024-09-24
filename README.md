@@ -7,7 +7,7 @@ http://strobe.audio
 This is the umbrella project for the code that comprises the Strobe Audio hub.
 
 Strobe is a multi-room audio system built from scratch in Elixir by
-[@magnetised](https://github.com/magnetised").
+[@magnetised](https://github.com/magnetised).
 
 ## Overview
 
